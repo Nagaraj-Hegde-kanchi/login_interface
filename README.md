@@ -1,2 +1,2 @@
 # login_interface
-very simple login interface, built using customykinter python3.x
+very simple login interface, built using CustomTkinter python3.x
